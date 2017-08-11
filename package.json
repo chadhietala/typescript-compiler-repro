@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "broccoli-funnel": "^1.2.0",
+    "broccoli-typescript-compiler": "^2.0.0",
+    "ember-cli": "^2.14.2"
+  }
+}
